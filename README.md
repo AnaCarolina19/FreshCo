@@ -1,1 +1,3 @@
 # FreshCo
+
+Estrutura das classe
